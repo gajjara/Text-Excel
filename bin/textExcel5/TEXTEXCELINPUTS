@@ -1,0 +1,63 @@
+TEXT EXCEL INPUTS
+
+A1 = "MENU"
+B1 = "WEDNESDAY"
+C1 = "AUGUST"
+D1 = "ONE"
+E1 = "8:00"
+F1 = "PM"
+G1 = "29"
+H1 = "*C"
+//ADD ONE TO EACH NUMBER VALUE
+A3 = "CALENDER"
+//EDITED HERE
+"B3 = \"TODAY\"",
+"E3 = \"WEATHER\"",
+"F3 = \"TODAY\"",
+"A4 = \"TIME\"",
+"B4 = \"EVENT\"",
+"E4 = \"TIME\"",
+"F4 = \"TEMP\"",
+"G4 = \"%RAIN\"",
+"A5 = \"9AM\"",
+"A6 = \"10AM\"",
+"A7 = \"11AM\"",
+"A8 = \"NOON\"",
+"A9 = \"1PM\"",
+"A10 = \"2PM\"",
+"A11 = \"3PM\"",
+"A12 = \"4PM\"",
+"A13 = \"5PM\"",
+"E5 = \"9AM\"",
+"E6 = \"10AM\"",
+"E7 = \"11AM\"",
+"E8 = \"NOON\"",
+"E9 = \"1PM\"",
+"E10 = \"2PM\"",
+"E11 = \"3PM\"",
+"E12 = \"4PM\"",
+"E13 = \"5PM\"",
+"A14 = \"WEEK\"",
+"B15 = \"MONTH\"",
+"C14 = \"YEAR\"",
+"E14 = \"WEEK\"",
+"F14 = \"2WEEK\"",
+"G14 = \"MONTH\"",
+"A16 = \"TO DO\"",
+"B16 = \"TODAY\"",
+"E16 = \"NEWS\"",
+"F16 = \"OPTIONS\"",
+"A17 = \"OPT1\"",
+"B17 = \"OPT2\"",
+"C17 = \"OPT3\"",
+"E17 = \"NATIONAL\"",
+"E21 = \"WORLD\"",
+"A25 = \"CATEGORY1\"",
+"B25 = \"CATEGORY2\"",
+"C25 = \"CATEGORY3\"",
+"E25 = \"OPTION1\"",
+"F25 = \"OPTION2\"",
+"G25 = \"OPTION3\"",
+"H25 = \"OPTIONS1\"",
+"\"print\""
+quit
